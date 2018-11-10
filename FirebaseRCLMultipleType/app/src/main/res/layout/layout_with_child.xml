@@ -48,7 +48,8 @@
             android:padding="8dp"
             android:text="This item is child"
             android:textColor="@android:color/white"
-            android:textSize="20sp" />
+            android:textSize="20sp"
+            android:textStyle="italic" />
 
     </com.github.aakira.expandablelayout.ExpandableLinearLayout>
 
