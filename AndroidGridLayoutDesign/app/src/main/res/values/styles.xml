@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="exampleToast">
+        <item name="stTextColor">@android:color/white</item>
+        <item name="stTextSize">14sp</item>
+        <item name="stColorBackground">@android:color/black</item>
+        <item name="stIconStart">@drawable/ic_account_circle_gray_24dp</item>
+        <item name="stLength">SHORT</item>
+    </style>
+
+</resources>
